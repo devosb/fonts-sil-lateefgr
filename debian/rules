@@ -1,0 +1,9 @@
+#!/usr/bin/make -f
+%:
+	dh $@
+
+override_dh_installchangelogs:
+	dh_installchangelogs -k FONTLOG.txt
+
+override_dh_compress:
+	dh_compress -X.xml -X.woff -X.pdf -X.txt

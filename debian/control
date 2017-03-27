@@ -1,0 +1,24 @@
+Source: fonts-sil-lateefgr
+Section: fonts
+Priority: optional
+Maintainer: Bobby de Vos <bobby_devos@sil.org>
+Build-Depends: debhelper (>=9~)
+Standards-Version: 3.9.7
+Homepage: http://software.sil.org/lateef/
+#Vcs-Git: git://anonscm.debian.org/pkg-fonts/fonts-sil-lateefgr.git
+#Vcs-Browser: https://anonscm.debian.org/gitweb/?p=pkg-fonts/fonts-sil-lateefgr.git;a=summary
+
+Package: fonts-sil-lateefgr
+Architecture: all
+Multi-Arch: foreign
+Depends: ${misc:Depends}
+Suggests: libgraphite2-3
+Description: Unicode Arabic font for southern Asia
+ Lateef is an extended Arabic script font designed by SIL International.
+ .
+ Lateef is named after Shah Abdul Lateef Bhitai, the famous Sindhi mystic and poet.
+ It is intended to be an appropriate style for use in Sindhi and other languages of the southern Asia:
+ .
+ Lateef is currently available in Regular weight only.
+ Font sources are published in the repository and a smith open workflow is
+ used for building, testing and releasing.
