@@ -1,2 +1,3 @@
-results/*.ttf       usr/share/fonts/opentype/lateefgr
+results/*.ttf       usr/share/fonts/truetype/lateefgr
+results/web/*.woff  usr/share/fonts-sil-lateefgr/woff
 debian/bug/*          usr/share/bug/fonts-sil-lateefgr

@@ -1,9 +1,9 @@
 Document: fonts-sil-lateefgr-features
 Title: Font Features for LateefGR
-Author: NRSI www.sil.org
+Author: SIL International www.sil.org
 Abstract: How to use optional font features in the LateefGR font.
  Additional documentation is located in various text files. ODT source is included.
 Section: Office
 
 Format: PDF
-Files: /usr/share/doc/fonts-sil-lateefgr/documentation/Lateef-features.pdf
+Files: /usr/share/doc/fonts-sil-lateefgr/documentation/Lateef-features.pdf.gz

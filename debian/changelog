@@ -1,6 +1,12 @@
+fonts-sil-lateefgr (1.200-2) unstable; urgency=medium
+
+  * Update packaging.
+  * Update Standards to 4.1.2 (checked)
+
+ -- Bobby de Vos <bobby_devos@sil.org>  Thu, 07 Dec 2017 09:53:38 -0700
+
 fonts-sil-lateefgr (1.200-1) unstable; urgency=medium
 
   * Initial release
 
  -- Bobby de Vos <bobby_devos@sil.org>  Mon, 27 Mar 2017 07:54:17 -0600
-

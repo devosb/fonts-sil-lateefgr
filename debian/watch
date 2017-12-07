@@ -1,2 +1,7 @@
-# Access to the tarballs is now automated,
-# but I cannot figure out the syntax for this file.
+# Compulsory line, this is a version 4 file
+version=4
+
+# GitHub hosted projects
+opts="pgpsigurlmangle=s%$%.asc%" \
+https://github.com/silnrsi/font-lateef/releases \
+ /silnrsi/font-lateef/releases/download/v\d[\d\.]*/LateefGR@ANY_VERSION@.tar.xz debian uupdate

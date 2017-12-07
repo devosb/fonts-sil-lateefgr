@@ -1,7 +1,7 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: LateefGR
-Upstream-Contact: SIL International http://software.sil.org/lateef/support/
-Source: http://software.sil.org/lateef/
+Upstream-Contact: SIL International https://software.sil.org/lateef/support
+Source: https://software.sil.org/lateef
 
 Files: *
 Copyright: Copyright (c) 1994-2017, SIL International (http://www.sil.org/),
@@ -9,7 +9,7 @@ Copyright: Copyright (c) 1994-2017, SIL International (http://www.sil.org/),
 License: OFL-1.1
 
 Files: debian/*
-Copyright: (C) 2017 Bobby de Vos <bobby_devos@sil.org>
+Copyright: (C) 2017 Bobby de Vos
 License: OFL-1.1
 
 License: OFL-1.1
